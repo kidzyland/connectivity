@@ -20,7 +20,7 @@ dependencies {
     .
     .
     .
-    implementation 'com.github.kidzyland:connectivity:Tag'
+    implementation 'com.github.kidzyland:connectivity:1.1.0'
 }
 ```
 
