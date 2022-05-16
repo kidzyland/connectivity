@@ -20,7 +20,7 @@ dependencies {
     .
     .
     .
-    implementation 'com.github.farzadfarazmand:EmptyStateLibrary:v1.1.0'
+    implementation 'com.github.kidzyland:connectivity:Tag'
 }
 ```
 
