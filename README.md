@@ -51,6 +51,19 @@ val connectionState: CheckConnectivityModule.ConnectivityState =
 
 ```
 
+Return variable has three state : 
+
+```groovy
+
+NOCONNECTION --> connectiivty has disabled
+
+HASINTERNET -->  connected to Internet
+
+NOINTERNET --> not connected to Internet
+
+```
+
+
 
 ## Licenses
 ```
