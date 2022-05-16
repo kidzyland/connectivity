@@ -27,7 +27,7 @@ dependencies {
 
 # How to use 
 
-Call initialization function in application class. It is better to use applicationContext to observe connectivity manager while application is running. 
+Call initialize function in application class. It is better to use applicationContext to observe connectivity manager while application is running. 
 Although you can use activity context if you want to observe connectivity state in specific activity.
 ```groovy
 
